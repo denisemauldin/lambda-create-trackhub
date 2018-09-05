@@ -1,0 +1,66 @@
+{
+"s3BucketName": "dm-trackhubs",
+"hubName": "MCD34",
+"shortLabel": "MCD34 H3K27me3 samples",
+"longLabel" : "MCD34 H3K27me3 Histone Modification by Chip-seq Signal from REMC/Broad samples",
+"genome": "hg38",
+"email": "denise.mauldin@gmail.com",
+"samples": [
+ {
+   "URL": "https://vizhub.wustl.edu/VizHub/hg19/BI_MCD34_H3K27me3_RO01480.bigWig",
+   "shortLabel": "MCD34 H3K27me3 RO01480",
+   "longLabel": "MCD34 H3K27me3 Histone Modification by Chip-seq Signal from REMC/Broad",
+   "color": "204,0,0",
+   "trackType": "bigWig"
+ },
+ {
+   "URL": "https://vizhub.wustl.edu/VizHub/hg19/BI_MCD34_H3K27me3_RO01517.bigWig",
+   "shortLabel": "CD34 H3K27me3 RO01517",
+   "longLabel": "MCD34 H3K27me3 Histone Modification by Chip-seq Signal from REMC/Broad",
+   "color": "204,0,0",
+   "trackType": "bigWig"
+ },
+ {
+   "URL": "https://vizhub.wustl.edu/VizHub/hg19/BI_MCD34_H3K27me3_RO01549.bigWig",
+   "shortLabel": "MCD34 H3K27me3 RO01549",
+   "longLabel": "MCD34 H3K27me3 Histone Modification by Chip-seq Signal from REMC/Broad",
+   "color": "204,0,0",
+   "trackType": "bigWig"
+ },
+ {
+   "URL": "https://vizhub.wustl.edu/VizHub/hg19/BI_MCD34_H3K27me3_RO01562.bigWig",
+   "shortLabel": "MCD34 H3K27me3 RO01562",
+   "longLabel": "MCD34 H3K27me3 Histone Modification by Chip-seq Signal from REMC/Broad",
+   "color": "204,0,0",
+   "trackType": "bigWig"
+ },
+ {
+   "URL": "https://vizhub.wustl.edu/VizHub/hg19/BI_MCD34_H3K36me3_RO01549.bigWig",
+   "shortLabel": "MCD34 H3K36me3 RO01549",
+   "longLabel": "MCD34 H3K36me3 Histone Modification by Chip-seq Signal from REMC/Broad",
+   "color": "0,194,0",
+   "trackType": "bigWig"
+ },
+ {
+   "URL": "https://vizhub.wustl.edu/VizHub/hg19/BI_MCD34_H3K36me3_RO01562.bigWig",
+   "shortLabel": "MCD34 H3K36me3 RO01562",
+   "longLabel": "MCD34 H3K36me3 Histone Modification by Chip-seq Signal from REMC/Broad",
+   "color": "0,194,0",
+   "trackType": "bigWig"
+ },
+ {
+   "URL": "https://vizhub.wustl.edu/VizHub/hg19/BI_MCD34_H3K4me1_RO01480.bigWig",
+   "shortLabel": "MCD34 H3K4me1 RO01480",
+   "longLabel": "MCD34 H3K4me1 Histone Modification by Chip-seq Signal from REMC/Broad",
+   "color": "0,133,66",
+   "trackType": "bigWig"
+ },
+ {
+   "URL": "https://vizhub.wustl.edu/VizHub/hg19/BI_MCD34_H3K4me1_RO01536.bigWig",
+   "shortLabel": "MCD34 H3K4me1 RO01536",
+   "longLabel": "MCD34 H3K4me1 Histone Modification by Chip-seq Signal from REMC/Broad",
+   "color": "0,133,66",
+   "trackType": "bigWig"
+ }
+]
+}
